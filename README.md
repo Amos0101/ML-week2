@@ -12,14 +12,15 @@ We forecast next-year CO₂ emissions using historical emissions, GDP per capita
 1. Clone repo
 2. Put cleaned CSVs in `data/`
 3. `pip install -r requirements.txt`
-4. Open `notebooks/02-modeling.ipynb` in Colab or locally and run cells.
+
 
 ## Results
 - Baseline MAE: X.XXX (example)
 - RMSE: X.XXX
 - MAPE: XX.X%
 
-(Include two screenshots: EDA plots and predicted vs actual plot)
+<img width="1344" height="960" alt="image" src="https://github.com/user-attachments/assets/56dc27d0-317b-4f22-b950-36bc22f88302" />
+
 
 ## Ethical considerations
 - Data quality varies across countries; model uncertainty is flagged for low-quality data.
